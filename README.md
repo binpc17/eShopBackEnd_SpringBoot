@@ -5,7 +5,7 @@
 <h4>Keyword: Spring Boot, Spring Data, Spring Data Rest, Spring Security, Spring Cloud, JPA Hihernate, Swagger Documentation (openApi 3)</h4>
 
 In this simple <strong>eShopBackEnd_SpringBoot</strong> I’m using a H2 database to help you to execute and test this without any problem (with less configurations).
-This project is linked to <strong>eShop-Web</strong> project as FrontEnd.. <h5>Soo you need to download eShop-Web </h5>
+This project is linked to <strong>eShop-Web</strong> project as FrontEnd.. <h5>Soo you need to download or Clone the project eShop-Web </h5> LIKE THIS: <strong> git clone git@github.com:binpc17/eShopWeb_Angular.git</strong>
 
 By default the server port is: <em>8087</em>
 <h4>HOW TO USE THIS PROJECT ? </h4>
